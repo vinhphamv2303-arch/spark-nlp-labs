@@ -1,0 +1,6 @@
+--- Performance Metrics (Exercise 4: Word2Vec + LR) ---
+Pipeline fitting duration: 15.51 seconds
+Data transformation duration: 1.43 seconds
+Actual vocabulary size: 46838 unique terms
+Vectorizer used: Word2Vec (VectorSize: 100)
+Metrics file generated at: D:\ADMIN\Documents\Classwork\spark_labs\log\lab17_metrics_4.log

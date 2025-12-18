@@ -1,0 +1,134 @@
+--- NLP Pipeline Output with Predictions (First 20 results) ---
+Output file generated at: D:\ADMIN\Documents\Classwork\spark_labs\results\lab17_pipeline_output_3.txt
+
+================================================================================
+Original Text: Beginners BBQ Class Taking Place in Missoula!
+Do you want to get better at making delicious BBQ? You...
+Label (Actual): 1.0
+Prediction: 1.0
+================================================================================
+
+================================================================================
+Original Text: Discussion in 'Mac OS X Lion (10.7)' started by axboi87, Jan 20, 2012.
+I've got a 500gb internal dri...
+Label (Actual): 1.0
+Prediction: 1.0
+================================================================================
+
+================================================================================
+Original Text: Foil plaid lycra and spandex shortall with metallic slinky insets. Attached metallic elastic belt wi...
+Label (Actual): 0.0
+Prediction: 0.0
+================================================================================
+
+================================================================================
+Original Text: How many backlinks per day for new site?
+Discussion in 'Black Hat SEO' started by Omoplata, Dec 3, 2...
+Label (Actual): 1.0
+Prediction: 1.0
+================================================================================
+
+================================================================================
+Original Text: The Denver Board of Education opened the 2017-18 school year with an update on projects that include...
+Label (Actual): 1.0
+Prediction: 1.0
+================================================================================
+
+================================================================================
+Original Text: BANGALORE CY JUNCTION SBC to GONDIA JUNCTION G train timings, routes, stops, and complete info.
+As o...
+Label (Actual): 1.0
+Prediction: 1.0
+================================================================================
+
+================================================================================
+Original Text: I thought I was going to finish the 3rd season of the Wire tonight.
+But there was a commentary on ep...
+Label (Actual): 1.0
+Prediction: 1.0
+================================================================================
+
+================================================================================
+Original Text: The rich get richer and the poor get poorer eh?
+Or is it the rich think different and play by a diff...
+Label (Actual): 1.0
+Prediction: 1.0
+================================================================================
+
+================================================================================
+Original Text: Biomedics 1 Day Extra are daily replacement disposable contact lenses by CooperVision Hydron. Buy on...
+Label (Actual): 1.0
+Prediction: 1.0
+================================================================================
+
+================================================================================
+Original Text: Sysco Corp. has terminated its planned $3.5 billion takeover of US Foods, it announced Monday, after...
+Label (Actual): 1.0
+Prediction: 1.0
+================================================================================
+
+================================================================================
+Original Text: Pencarian FILM Untuk "Peace Breaker 2017"
+yuk mampir ke channel say..
+Edges East provides the l..
+A ...
+Label (Actual): 1.0
+Prediction: 1.0
+================================================================================
+
+================================================================================
+Original Text: Below you'll find some great videos that will encourage you, train you and build you up in hearing f...
+Label (Actual): 1.0
+Prediction: 1.0
+================================================================================
+
+================================================================================
+Original Text: "Unemployment, Relative Price Dispersion and the Implicit Contract Model."
+"The Federal Reserve&apos...
+Label (Actual): 1.0
+Prediction: 1.0
+================================================================================
+
+================================================================================
+Original Text: I have existing web site brittlloyd.org. I opened a new domain sayrebuildersrockport.com however I d...
+Label (Actual): 1.0
+Prediction: 1.0
+================================================================================
+
+================================================================================
+Original Text: Embrace world class facilities at East Bourne Resort & Spa Shimla. Facilities at East Bourne Resort ...
+Label (Actual): 1.0
+Prediction: 1.0
+================================================================================
+
+================================================================================
+Original Text: "Bake me a pie or go away," I've literally had my son say that to me a few times. So, what was I to ...
+Label (Actual): 1.0
+Prediction: 1.0
+================================================================================
+
+================================================================================
+Original Text: Are film trailers spoiling movies?
+In April we asked if high ticket prices were ruining your visits ...
+Label (Actual): 1.0
+Prediction: 1.0
+================================================================================
+
+================================================================================
+Original Text: UNStudio has joined forces with HPP Architects to create a consortium (UNS + HPP) to carry out the n...
+Label (Actual): 1.0
+Prediction: 1.0
+================================================================================
+
+================================================================================
+Original Text: ▲Students are shouting several slogans to guarantee the school's autonomy in front of Jogyesa Temple...
+Label (Actual): 1.0
+Prediction: 1.0
+================================================================================
+
+================================================================================
+Original Text: Quartz is one of the most common and varied minerals on earth, and its abundant colors produce many ...
+Label (Actual): 1.0
+Prediction: 1.0
+================================================================================
+

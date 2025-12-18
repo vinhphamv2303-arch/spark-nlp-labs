@@ -1,0 +1,6 @@
+--- Performance Metrics (Final Requirements) ---
+Document Limit set to: 2000
+Data Read Time: 6.34 seconds
+Pipeline Train Time: 8.30 seconds
+Data Process Time: 1.83 seconds
+Pipeline Strategy: Tokenizer -> StopWords -> HashingTF -> IDF -> Normalizer -> LR

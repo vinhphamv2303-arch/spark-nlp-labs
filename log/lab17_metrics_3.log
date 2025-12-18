@@ -1,0 +1,6 @@
+--- Performance Metrics (Exercise 3: Logistic Regression) ---
+Pipeline fitting duration: 9.36 seconds
+Data transformation duration: 1.39 seconds
+Actual vocabulary size: 46838 unique terms
+HashingTF numFeatures set to: 1000
+Metrics file generated at: D:\ADMIN\Documents\Classwork\spark_labs\log\lab17_metrics_3.log
