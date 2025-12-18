@@ -86,7 +86,20 @@ sbt run
 
 ## 3. Giải thích kết quả thu được
 
-### 3.1. Phân loại văn bản với Logistic Regression (Bài 3)
+### 3.1. Sử dụng Tokenizer thường (tách từ theo khoảng trắng), không dùng regex (Bài 1)
+* **File:** `results/lab17_pipeline_output_1.txt`
+
+* **Kết quả:** 
+  
+    * Số lượng token có thể ít hơn, một số dấu câu không được tách riêng, dẫn đến vector TF-IDF có thể khác biệt so với pipeline dùng RegexTokenizer.
+
+### 3.2 Sử dụng RegexTokenizer và giảm kích thước vector hóa xuống 1000 chiều (Bài 2)
+* **File:** `results/lab17_pipeline_output_2.txt`
+
+* **Kết quả:**
+  
+    * Xuất hiện hiện tượng hash collision: nhiều từ khác nhau bị ánh xạ vào cùng một chiều, làm giảm độ phân biệt của vector.
+### 3.3. Phân loại văn bản với Logistic Regression (Bài 3)
 
 * **File:** `results/lab17_pipeline_output_3.txt`
 
